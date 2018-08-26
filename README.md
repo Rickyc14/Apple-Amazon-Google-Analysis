@@ -50,4 +50,4 @@ it wasn't ignored, and less than two years later Google acquired it for 1.6 bill
 <br><br><br>
 
 
-:arrow_right: Check out [Nokia-Analysis](https://github.com/Rickyc14/NOKIA-Analysis.git) to view another simple analysis of notable  companies!
+:arrow_right: Check out my other GitHub respository [Nokia-Analysis](https://github.com/Rickyc14/NOKIA-Analysis.git) to view another simple analysis of notable  companies!
