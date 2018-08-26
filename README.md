@@ -22,7 +22,7 @@ All graphs on the <strong>left</strong> were made employing <strong>only</strong
   <img src="plot/AAPL1.Rplot.jpeg" width="400" /> 
 </p>
 <br>
-Both Apple and Amazon are among the largest companies in the world, not only that but together they have the 1st and 2nd [largest market value in 2018](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-value/) respectively.
+Both Apple and Amazon are among the largest companies in the world, not only that but together they have the 1st and 2nd largest market value in 2018 respectively.
 <br>
 <p float="left">
   <img src="plot/AMZN.Rplot.jpeg" width="400" />
