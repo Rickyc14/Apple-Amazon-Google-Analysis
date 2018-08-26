@@ -3,8 +3,11 @@
 Very few companies can match the influence these three possess. They are the trend-makers always trying to stay ahead of the curve, and despite not being immune to changes in the economic environment, they managed to thrive during all these years.<br>
 
 The archive above contains plot images, <em>xlsx</em> files with the data used in this project, and source code files. The data was obtained from [Yahoo finance](https://finance.yahoo.com/) using the [R software](https://www.r-project.org/).<br><br>
-
+<ul>
+<li>  
 This is a common data pattern for each trade computed and stored in the database:
+ </li>
+</ul>
 
 |    DATE [0]    |    OPEN [1]    |    HIGH [2]    |     LOW [3]     |     CLOSE [4]    |     VOLUME [5]    |     ADJUSTED [6]     | 
 |:--------------:|:--------------:|:--------------:|:---------------:|:----------------:|:-----------------:|:--------------------:|
