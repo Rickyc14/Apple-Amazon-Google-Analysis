@@ -13,7 +13,9 @@ This is a common data pattern for each trading computed and stored in the databa
 <br>
 The majority of it is self-explanatory, and when trying to derive meaning from this type of collection, it's a good idea to focus on the <strong>closing stock price</strong>. Although it is not a good indicator on its own, visualizing it throughout many years can pose as a good representation of a company's success.<br><br>
 
-Therefore, all graphs on the <strong>left</strong> were made employing <strong>only</strong> the close column from <em>2000</em> to <em>2018</em>. Conversely, all graphs on the <strong>right</strong> were made using R's `chartSeries` function which takes into account other values in order forecast more accurate figures. 
+The <strong>adjusted</strong> column represents the closing price when considering everything that happened after the current day The <strong>adjusted</strong> column represents the closing price when considering everything that happened after the <em>current day closing time</em> and before the <em>next day opening time</em>. Such events can come in the form of additional shares being offered or paying out dividends to shareholders  -- both decrease the stock value.
+
+Lastly, all graphs on the <strong>left</strong> were made employing <strong>only</strong> the close column from <em>2000</em> to <em>2018</em>. Conversely, all graphs on the <strong>right</strong> were made using R's `chartSeries` function which takes into account other values in order forecast more accurate figures. 
 
 <p float="left">
   <img src="plot/AAPL.Rplot.jpeg" width="400" />
