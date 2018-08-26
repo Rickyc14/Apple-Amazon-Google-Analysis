@@ -15,7 +15,7 @@ The majority of it is self-explanatory, and when trying to derive meaning from t
 
 The <strong>adjusted</strong> column represents the closing price when considering everything that happened after the <em>current day closing time</em> and before the <em>next day opening time</em>. Such events can come in the form of additional shares being offered or paying out dividends to shareholders  -- both decrease the stock value.
 
-All graphs on the <strong>left</strong> were made employing <strong>only</strong> the close column from <em>2000</em> to <em>2018</em>. Conversely, all graphs on the <strong>right</strong> were from the last six months and made using R's `chartSeries` function which takes into account other values in order to forecast more accurate figures. <br><br>
+All graphs on the <strong>left</strong> were made employing <strong>only</strong> the close column from <em>2000</em> to <em>2018</em>. Conversely, all graphs on the <strong>right</strong> are from the last six months and were made using R's `chartSeries` function which takes into account other values in order to forecast more accurate figures. <br><br>
 
 <p float="left">
   <img src="plot/AAPL.Rplot.jpeg" width="400" />
