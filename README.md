@@ -27,7 +27,7 @@ All graphs on the <strong>left</strong> were made employing <strong>only</strong
 </p>
 
 <br><br>
-Apple and Amazon are among the largest companies in the world, not only that but they have the 1st and 2nd [largest market value in 2018](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-value/) respectively. Both were founded to supply a few specific solutions to society. After the initial inertia, they diverged just enough to keep their popularity as problem-solvers and innovators, but still residing in their initial domain.
+Apple and Amazon are among the largest companies in the world, not only that but they have the 1st and 2nd [largest market value in 2018](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-value/) respectively. Both were founded to supply a few specific solutions to society, and fter the initial inertia, they diverged just enough to keep their popularity as problem-solvers and innovators, but still residing in their initial domain.
 <br><br>
 
 <p float="left">
