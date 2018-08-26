@@ -16,7 +16,7 @@ This is a common data pattern for each trade computed and stored in the database
 <br>
 When trying to derive meaning from this type of collection, it's a good idea to focus on the <strong>closing stock price</strong>. Although it is not a good indicator on its own, visualizing it throughout many years can pose as a good representation of a company's success.<br><br>
 
-The <strong>adjusted</strong> column represents the closing price when considering everything that happened after the <em>current day closing time</em> and before the <em>next day opening time</em>. Such events can come in the form of additional shares being offered or paying out dividends to shareholders  -- both decrease the stock value.
+The <strong>adjusted</strong> column represents the closing price when considering everything that happened after the <em>current day closing time</em> and before the <em>next day opening time</em>. Such events can come in the form of additional shares being offered or paying out dividends to shareholders  -- both examples decrease the stock value.
 
 All graphs on the <strong>left</strong> were made employing <strong>only</strong> the close column from <em>2000</em> to <em>2018</em>. Conversely, all graphs on the <strong>right</strong> are from the last six months and were made using R's `chartSeries` and SMA (<em>simple moving average</em>) functions allowing for a more precise forecast. <br><br>
 :arrow_right: Check out my other GitHub respository [Nokia-Analysis](https://github.com/Rickyc14/NOKIA-Analysis.git) to get more info on the mechanics of the <em>simple moving average</em> used in this project!<br>
