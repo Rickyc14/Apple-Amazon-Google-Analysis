@@ -22,8 +22,8 @@ All graphs on the <strong>left</strong> were made employing <strong>only</strong
 
 
 <p float="left">
-  <img src="plot/AAPL.Rplot.jpeg" width="400" />
-  <img src="plot/AAPL1.Rplot.jpeg" width="400" /> 
+  <img src="/data+plot/AAPL.Rplot.jpeg" width="400" />
+  <img src="/data+plot/AAPL1.Rplot.jpeg" width="400" /> 
 </p>
 
 <br><br>
@@ -31,8 +31,8 @@ Apple and Amazon are among the largest companies in the world, not only that but
 <br><br>
 
 <p float="left">
-  <img src="plot/AMZN.Rplot.jpeg" width="400" />
-  <img src="plot/AMZN1.Rplot.jpeg" width="400" /> 
+  <img src="/data+plot/AMZN.Rplot.jpeg" width="400" />
+  <img src="/data+plot/AMZN1.Rplot.jpeg" width="400" /> 
 </p>
 
 
@@ -44,8 +44,8 @@ Back in 2005, when a few of PayPal founders started YouTube, and the platform wa
 its place on the world wide web, its functionalities weren't yet clear to the public. However, the potential around 
 it wasn't ignored, and less than two years later Google acquired it for 1.6 billion. They go out of their way to be part of the latest technologies, and that kind of attitude enabled them to keep growing.<br><br>
 <p float="left">
-  <img src="plot/GOOG.Rplot.jpeg" width="400" />
-  <img src="plot/GOOG1.Rplot.jpeg" width="400" /> 
+  <img src="/data+plot/GOOG.Rplot.jpeg" width="400" />
+  <img src="/data+plot/GOOG1.Rplot.jpeg" width="400" /> 
 </p>
 <br><br><br>
 
