@@ -3,8 +3,7 @@
 Very few companies can match the influence these three posses. They are the trend-makers always trying to stay 
 ahead of the curve.  <br>
 
-The archive above contains <em>xlsx</em> files with the data used for this project along with a <em>nasdaq100 list</em>. 
-This is a common data pattern for each trading computed and stored in the database:<br>
+The archive above contains plot images and <em>xlsx</em> files with the data used for this project. This is a common data pattern for each trading computed and stored in the database:<br>
 
 
 |    DATE [1]    |    OPEN [2]    |    HIGH [3]    |     LOW [4]     |     CLOSE [5]    |     VOLUME [6]    |     ADJUSTED [7]     | 
