@@ -27,7 +27,7 @@ All graphs on the <strong>left</strong> were made employing <strong>only</strong
 </p>
 
 <br><br>
-Apple and Amazon are among the largest companies in the world, not only that but they have the 1st and 2nd [largest market value in 2018](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-value/) respectively. Both were founded to supply a few specific solutions to society, and fter the initial inertia, they diverged just enough to keep their popularity as problem-solvers and innovators, but still residing in their initial domain.
+Apple and Amazon are among the largest companies in the world, not only that but they have the 1st and 2nd [largest market value in 2018](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-value/) respectively. Both were founded to supply a few specific solutions to society, and after the initial inertia, they diverged just enough to keep their popularity as problem-solvers and innovators, but still residing in their initial domain.
 <br><br>
 
 <p float="left">
@@ -47,3 +47,7 @@ it wasn't ignored, and less than two years later Google acquired it for 1.6 bill
   <img src="plot/GOOG.Rplot.jpeg" width="400" />
   <img src="plot/GOOG1.Rplot.jpeg" width="400" /> 
 </p>
+<br><br><br>
+
+
+:arrow_right: Check out [Nokia-Analysis](https://github.com/Rickyc14/NOKIA-Analysis.git) to view another simple analysis of notable  companies!
