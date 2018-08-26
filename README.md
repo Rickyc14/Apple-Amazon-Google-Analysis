@@ -5,11 +5,13 @@ ahead of the curve.  <br>
 
 The archive above contains <em>xlsx</em> files with the data used for this project along with a <em>nasdaq100 list</em>. 
 This is a common data pattern for each trading computed and stored in the database:<br>
-```
-- DATE [1]                                - OPEN [2]                                     - HIGH [3] 
-- LOW [4]                                 - CLOSE [5]                                    - VOLUME [7]
-- ADJUSTED [7]
-```
+
+
+| DATE [1] | OPEN [2] | HIGH [3] |  LOW [4]  |  CLOSE [5] |  VOLUME [6] |  ADJUSTED [7]  | 
+|----------|----------|----------|-----------|------------|-------------|----------------|
+|2018-08-09|  207.28  |  209.78  |   207.2   |  208.88    |   23469200  |     208.15     |
+|          |          |          |           |            |             |                |
+
 The majority of it is self-explanatory, and when trying to derive meaning from this type of collection, it's a good idea to focus on the closing stock price. Although it is not a good indicator on its own, visualizing it throughout many years can pose as a good representation of a company's position. 
 The data was obtained from Yahoo finance using R software. 
 
