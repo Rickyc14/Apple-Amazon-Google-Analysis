@@ -17,6 +17,10 @@ The <strong>adjusted</strong> column represents the closing price when consideri
 
 All graphs on the <strong>left</strong> were made employing <strong>only</strong> the close column from <em>2000</em> to <em>2018</em>. Conversely, all graphs on the <strong>right</strong> are from the last six months and were made using R's `chartSeries` function which takes into account other values in order to forecast more accurate figures. <br><br>
 
+
+---
+
+
 <p float="left">
   <img src="plot/AAPL.Rplot.jpeg" width="400" />
   <img src="plot/AAPL1.Rplot.jpeg" width="400" /> 
@@ -30,6 +34,10 @@ Apple and Amazon are among the largest companies in the world, not only that but
   <img src="plot/AMZN.Rplot.jpeg" width="400" />
   <img src="plot/AMZN1.Rplot.jpeg" width="400" /> 
 </p>
+
+
+---
+
 
 <br>
 Back in 2005, when a few of PayPal founders started YouTube, and the platform was still finding 
