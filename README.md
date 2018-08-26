@@ -15,8 +15,8 @@ The majority of it is self-explanatory, and when trying to derive meaning from t
 
 The <strong>adjusted</strong> column represents the closing price when considering everything that happened after the <em>current day closing time</em> and before the <em>next day opening time</em>. Such events can come in the form of additional shares being offered or paying out dividends to shareholders  -- both decrease the stock value.
 
-All graphs on the <strong>left</strong> were made employing <strong>only</strong> the close column from <em>2000</em> to <em>2018</em>. Conversely, all graphs on the <strong>right</strong> are from the last six months and were made using R's `chartSeries` function which takes into account other values in order to forecast more accurate figures. <br><br>
-
+All graphs on the <strong>left</strong> were made employing <strong>only</strong> the close column from <em>2000</em> to <em>2018</em>. Conversely, all graphs on the <strong>right</strong> are from the last six months and were made using R's `chartSeries` and SMA (<em>simple moving average</em>) functions allowing for a more precise forecast. <br><br>
+:arrow_right: Check out my other GitHub respository [Nokia-Analysis](https://github.com/Rickyc14/NOKIA-Analysis.git) to get more info on the mechanics of the <em>simple moving average</em> used in this project!<br>
 
 ---
 
@@ -50,4 +50,3 @@ it wasn't ignored, and less than two years later Google acquired it for 1.6 bill
 <br><br><br>
 
 
-:arrow_right: Check out my other GitHub respository [Nokia-Analysis](https://github.com/Rickyc14/NOKIA-Analysis.git) to view another simple analysis of notable  companies!
