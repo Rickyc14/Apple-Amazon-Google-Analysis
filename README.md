@@ -4,13 +4,14 @@ Very few companies can match the influence these three posses. They are the tren
 
 The archive above contains plot images, <em>xlsx</em> files with the data used in this project, and source code files. The data was obtained from [Yahoo finance](https://finance.yahoo.com/) using the [R software](https://www.r-project.org/).<br><br>
 
-* This :arrow_down: is a common data pattern for each trading computed and stored in the database:
+This is a common data pattern for each trading computed and stored in the database:
 
 |    DATE [1]    |    OPEN [2]    |    HIGH [3]    |     LOW [4]     |     CLOSE [5]    |     VOLUME [6]    |     ADJUSTED [7]     | 
 |----------------|----------------|----------------|-----------------|------------------|-------------------|----------------------|
 |   2018-08-09   |     207.28     |     209.78     |      207.2      |      208.88      |  2 3 4 6 9 2 0 0  |        208.15        |
 
 
+<br>
 The majority of it is self-explanatory, and when trying to derive meaning from this type of collection, it's a good idea to focus on the closing stock price. Although it is not a good indicator on its own, visualizing it throughout many years can pose as a good representation of a company's position.  
 
 <p float="left">
