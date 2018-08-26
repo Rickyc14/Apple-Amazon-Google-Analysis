@@ -1,7 +1,6 @@
 # Apple-Amazon-Google-Analysis
 
-Very few companies can match the influence these three posses. They are the trend-makers always trying to stay 
-ahead of the curve.  <br>
+Very few companies can match the influence these three posses. They are the trend-makers always trying to stay ahead of the curve, and despite not being immune to changes in the economic environment, they managed to thrive during all these years.<br>
 
 The archive above contains plot images and <em>xlsx</em> files with the data used for this project. This is a common data pattern for each trading computed and stored in the database:<br>
 
