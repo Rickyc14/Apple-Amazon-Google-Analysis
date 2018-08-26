@@ -10,7 +10,7 @@ This is a common data pattern for each trading computed and stored in the databa
 |----------------|----------------|----------------|-----------------|------------------|-------------------|----------------------|
 |   2018-08-09   |     207.28     |     209.78     |      207.2      |      208.88      |  2 3 4 6 9 2 0 0  |        208.15        |
 
-
+<br>
 The majority of it is self-explanatory, and when trying to derive meaning from this type of collection, it's a good idea to focus on the <strong>closing stock price</strong>. Although it is not a good indicator on its own, visualizing it throughout many years can pose as a good representation of a company's success.<br>
 
 Therefore, all graphs on the <strong>left</strong> were made employing <strong>only</strong> the close column from <em>2000</em> to <em>2018</em>. Conversely, all graphs on the <strong>right</strong> were made using R's `chartSeries` function which takes into account other values in order forecast more accurate figures. 
