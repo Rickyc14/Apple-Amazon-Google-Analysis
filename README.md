@@ -4,7 +4,7 @@ Very few companies can match the influence these three possess. They are the tre
 
 The archive above contains plot images, <em>xlsx</em> files with the data used in this project, and source code files. The data was obtained from [Yahoo finance](https://finance.yahoo.com/) using the [R software](https://www.r-project.org/).<br><br>
 
-This is a common data pattern for each trading computed and stored in the database:
+This is a common data pattern for each trade computed and stored in the database:
 
 |    DATE [0]    |    OPEN [1]    |    HIGH [2]    |     LOW [3]     |     CLOSE [4]    |     VOLUME [5]    |     ADJUSTED [6]     | 
 |:--------------:|:--------------:|:--------------:|:---------------:|:----------------:|:-----------------:|:--------------------:|
