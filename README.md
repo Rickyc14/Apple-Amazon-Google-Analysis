@@ -15,13 +15,14 @@ The majority of it is self-explanatory, and when trying to derive meaning from t
 
 The <strong>adjusted</strong> column represents the closing price when considering everything that happened after the <em>current day closing time</em> and before the <em>next day opening time</em>. Such events can come in the form of additional shares being offered or paying out dividends to shareholders  -- both decrease the stock value.
 
-All graphs on the <strong>left</strong> were made employing <strong>only</strong> the close column from <em>2000</em> to <em>2018</em>. Conversely, all graphs on the <strong>right</strong> were from the last six months and made using R's `chartSeries` function which takes into account other values in order to forecast more accurate figures. 
+All graphs on the <strong>left</strong> were made employing <strong>only</strong> the close column from <em>2000</em> to <em>2018</em>. Conversely, all graphs on the <strong>right</strong> were from the last six months and made using R's `chartSeries` function which takes into account other values in order to forecast more accurate figures. <br><br>
 
 <p float="left">
   <img src="plot/AAPL.Rplot.jpeg" width="400" />
   <img src="plot/AAPL1.Rplot.jpeg" width="400" /> 
 </p>
 
+Both Apple and Amazon are among the largest companies in the world, not only that but together they have respectively the 1st and 2nd [lasgest market value in 2018](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-value/).
 
 <p float="left">
   <img src="plot/AMZN.Rplot.jpeg" width="400" />
@@ -31,7 +32,7 @@ All graphs on the <strong>left</strong> were made employing <strong>only</strong
 <br>
 Back in 2005, when a few of PayPal founders started YouTube, and the platform was still finding 
 its place on the world wide web, its functionalities weren't yet clear to the public. However, the potential around 
-it wasn't ignored, and less than two years later Google acquired it for 1.6 billion.<br>
+it wasn't ignored, and less than two years later Google acquired it for 1.6 billion. They go out of their way to be part of the latest technologies, and that kind of attitude enabled them to keep growing.<br>
 <p float="left">
   <img src="plot/GOOG.Rplot.jpeg" width="400" />
   <img src="plot/GOOG1.Rplot.jpeg" width="400" /> 
