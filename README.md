@@ -55,9 +55,9 @@ it wasn't ignored, and less than two years later Google acquired it for $1.6 bil
 
 
 <br>
- <p align="right">
+ <p float="left">
   <img src="/data+plot/Jupyter_docs/relative_value_stock.png " />
-</p>  
+ 
  
  
 |      DATE      |     AAPL       |      AMZN      |      GOOG       |       GOOGL      |  
@@ -66,5 +66,5 @@ it wasn't ignored, and less than two years later Google acquired it for $1.6 bil
 |   2015-01-05   |     100.93     |     302.19     |      513.87     |      519.46      |
 
 
-
+</p> 
 
