@@ -59,13 +59,16 @@ Following the [link above](https://www.statista.com/statistics/263264/top-compan
 | 2015-01-05 |  100.93  |  302.19  |   513.87  |   519.46   | 2015-01-07 |  102.36  |  298.42  |   501.10  |   505.15   |
 
 
-When dealing with stocks though, it's better to look at <strong>changes</strong> rather than absolute values. The plot on the <strong>right shows absolute</strong> stock prices, and the one on the <strong> left tell us about the earnings</strong> of investors over that particular period. This is done with a simple, but efficient approach: dividing the stock's current value by its original value, and then subtracting one from it -- since the initial capital can't be seen as earnings. 
-
+When dealing with stocks though, it's better to look at <strong>changes</strong> rather than absolute values. The plot on the <strong>right shows absolute</strong> stock prices, and the one on the <strong> left tell us about the earnings</strong> of investors over that particular period of time. This is done with a simple, but efficient approach: dividing the stock's current value by its original value, and then subtracting one from it -- since the initial capital can't be seen as earnings.<br>
 
 <br>
 <p float="left">
 <img src="/data+plot/Jupyter_docs/relative_value_stock.png " />
 <img src="/data+plot/Jupyter_docs/absolute_value_stock.png " />
  </p>
+
+The method used to graph the <strong>left plot</strong> is very useful, but it's possible to go a bit further. Instead of dividing present/past values and subtracting one, recursively implementing this method after each day is a much more accurate way to evaluate returns. It's worth noting that this process is mostly used like this: `log(v[t+1]) - log(v[t])`; v[t] being the stock's value at any given time <em>[ t ]</em>. This eliminates a lot possible data conflicts, which is predictable considering logarithmic properties are close related to percentage change and relative values. <br>
+
+
 
 
