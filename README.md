@@ -105,7 +105,7 @@ The method used to plot the <strong>left graph</strong> is very useful, but it's
 
 <strong>Right</strong> - R code: 
 ```r
-# R code for implementing the recursively <em>log</em> process mentioned above:
+# R code for implementing the recursively log process mentioned above:
 
 ap = AAPL[,6] %>% log %>% diff
 am = AMZN[,6] %>% log %>% diff
