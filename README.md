@@ -78,11 +78,20 @@ The method used to plot the <strong>left graph</strong> is very useful, but it's
 
 <h4>Both charts above represent the same concept: return on investment. </h4><br> 
 Left - it was used a couple of very useful <strong>Python</strong> modules:<br>
-- [matplotlib](https://matplotlib.org/): plotting
+<ul>
+<li> 
+[matplotlib](https://matplotlib.org/): plotting
+ </li>
+ <li>
 - [pandas](https://pandas.pydata.org/): setting data frame
-- [numpy](http://www.numpy.org/): setting log function into the program
-- [quandl](https://www.quandl.com/): requesting data<br>
-
+ </li>
+ <li>
+[numpy](http://www.numpy.org/): setting log function into the program
+ </li>
+ <li>
+[quandl](https://www.quandl.com/): requesting data
+ </li>
+</ul>
 Right - R code (available on the repository) 
 ```r
 # R code for implementing the recursively <em>log</em> process mentioned above:
