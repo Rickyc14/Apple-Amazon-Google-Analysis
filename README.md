@@ -49,7 +49,12 @@ Following the [link above](https://www.statista.com/statistics/263264/top-compan
   <img src="/data+plot/GOOG.Rplot.jpeg" width="400" />
   <img src="/data+plot/GOOG1.Rplot.jpeg" width="400" /> 
 </p>
-<br><br>
+<br>
+
+---
+---
+
+
 
 > Adjusted closing stock price for all three companies: <em>both Alphabet tickers follow the same change patterns</em>
 
