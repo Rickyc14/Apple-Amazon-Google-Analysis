@@ -87,7 +87,7 @@ float profit[data_size];
 for(int t =0; t<data_size;t++)
 {
   profit[t] = v[t+1] - v[t];    /// v[t] = stock's value at time equals 't'
-  profit[t] = profit[t]/(v[t]);   /// profit[t] = earnings (*or losses) due to changes in v[]
+  profit[t] = profit[t]/(v[t]);   /// profit[t](*or losses) = percent variation in v[t] over time
 }
 ```
 <br>
