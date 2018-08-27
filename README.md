@@ -45,7 +45,7 @@ Following the [link above](https://www.statista.com/statistics/263264/top-compan
 
 
 
-<br><br>
+<br>
   <img src="/data+plot/GOOG.Rplot.jpeg" width="400" />
   <img src="/data+plot/GOOG1.Rplot.jpeg" width="400" /> 
 </p>
