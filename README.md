@@ -60,7 +60,7 @@ Following the [link above](https://www.statista.com/statistics/263264/top-compan
 | 2015-01-05 |  100.93  |  302.19  |   513.87  |   519.46   |
 | 2015-01-06 |  100.94  |  295.29  |   501.96  |   506.64   |
 
-When dealing with stocks though, it's better to look at <strong>changes</strong> rather than absolute values. The plot on the left shows <strong>absolute</strong> stock prices, and the one on the right tell us about the <strong>earnings</strong> of investors over that particular period of time. This is done with a simple, but efficient approach: dividing the stock current value by its original value, and then subtracting one from it -- since the initial capital can't be seen as earnings. 
+When dealing with stocks though, it's better to look at <strong>changes</strong> rather than absolute values. The plot on the <strong>right shows absolute</strong> stock prices, and the one on the <strong> left tell us about the earnings</strong> of investors over that particular period of time. This is done with a simple, but efficient approach: dividing the stock current value by its original value, and then subtracting one from it -- since the initial capital can't be seen as earnings. 
 
 
 <br>
