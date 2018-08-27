@@ -69,6 +69,8 @@ When dealing with stocks though, it's better to look at <strong>changes</strong>
 
 The method used to graph the <strong>left plot</strong> is very useful, but it's possible to go a bit further. Instead of dividing present/past values and subtracting one, recursively implementing this method after each day is a much more accurate way to evaluate returns. It's worth noting that this process is mostly used like this: `log(v[t+1]) - log(v[t])`; v[t] being the stock's value at any given time <em>[ t ]</em>. This eliminates a lot possible data conflicts, which is predictable considering logarithmic properties are close related to changes from percentage values and relative values. <br>
 
-####
+<br>
+<p float="left">
+<img src="/data+plot/Jupyter_docs/returns.png " />
 
-
+ </p>
