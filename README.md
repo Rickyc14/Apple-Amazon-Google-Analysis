@@ -72,5 +72,5 @@ The method used to graph the <strong>left plot</strong> is very useful, but it's
 <br>
 <p float="left">
 <img src="/data+plot/Jupyter_docs/returns.png " />
-<img src="/data+plot/returns_plot_R.png " />
+<img src="/data+plot/returns_Rplot.jpg " />
  </p>
