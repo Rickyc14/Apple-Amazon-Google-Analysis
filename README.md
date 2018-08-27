@@ -77,16 +77,17 @@ When dealing with stocks though, it's better to look at <strong>changes</strong>
  </p>
 
 The method used to plot the <strong>left graph</strong> is very useful, but it's possible to go a bit further. Instead of dividing present/past values and subtracting one, recursively implementing this method each day is a much more accurate way to evaluate returns. It's worth noting that this process is mostly used like this: `log(v[t+1]) - log(v[t])`, which is a <strong>very congruent approximation</strong> of the exact value; v[t] being the stock's value at any given time <em>[ t ]</em>. This eliminates a lot possible data conflicts, which is predictable considering logarithmic properties are closely related to changes in percentage values. <br>
+> log approximation is accurate on its own, but it's better for small percentage changes <br>
+
 ```c
-  --- C code to find exact earnings/losses during each day without log ---
+///  --- C code to determine exact earnings/losses during each day without log ---
 #define data_size 1000
-float v[data_size];    
-float profit[data_size];
-for(int t =0; t<data_size-1;t++)
+float v[data_size];      
+float profit[data_size];  
+for(int t =0; t<data_size;t++)
 {
-  profit = v[t+1] - v[t];
-  profit = profit/(v[t]);
-  
+  profit[t] = v[t+1] - v[t];    /// v[t] = stock's value at time equals 't'
+  profit[t] = profit[t]/(v[t]);   /// profit[t] = earnings (*or losses) due to changes in v[]
 }
 ```
 <br>
