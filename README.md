@@ -41,7 +41,10 @@ Apple and Amazon are among the largest companies in the world, not only that but
 
 ---
 
-Following the [link above](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-value/) then, the 3rd place belongs to Google. Indeed, Alphabet is Google's parent company founded in 2015 by Google's founders as a form of maintaining control. After that, all prior Google stocks were converted into Alphabet stocks -- more than half being in posession of a few a people that were closely involded in the company's initial development. Nonetheless, trading is still available for the public under these tickers: "GOOG" and "GOOGL". Buying the first will not grant the right to vote on any company decision, and the second will cost a little extra but it comes with voting rights. All told, both types will follow similar trends. 
+Following the [link above](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-value/) then, the 3rd place belongs to Google. Indeed, Alphabet is Google's parent company founded in 2015 by Google's founders as a form of maintaining control. After that, all prior Google stocks were converted into Alphabet stocks -- more than half being in possession of a few a people that were closely involved in the company's initial development. Nonetheless, trading is still available for the public under these tickers: "GOOG" and "GOOGL". Buying the first will not grant the right to vote on any company decision, and the second will cost a little extra but it comes with voting rights. All told, both types will follow similar trends. 
+
+
+
 
 
 
@@ -50,6 +53,7 @@ Following the [link above](https://www.statista.com/statistics/263264/top-compan
   <img src="/data+plot/GOOG1.Rplot.jpeg" width="400" /> 
 </p>
 <br><br>
+
 
 
 
