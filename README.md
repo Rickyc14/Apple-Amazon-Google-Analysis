@@ -68,7 +68,7 @@ Following the [link above](https://www.statista.com/statistics/263264/top-compan
 
 
 
-When dealing with stocks though, it's better to look at <strong>changes</strong> rather than absolute values. The plot on the <strong>right shows absolute</strong> stock prices, and on the <strong> left: investors' earnings </strong> over the given period. The latter is determined with a simple, but efficient approach: dividing the stock's current value by its original value, and then subtracting it by one -- since the initial capital can't be seen as earnings.<br>
+When dealing with stocks though, it's better to look at <strong>changes</strong> rather than absolute values. The plot on the <strong>right shows absolute</strong> stock prices, and on the <strong> left: investors' overall % earnings </strong> over the given period. The latter is determined with a simple, but efficient approach: dividing the stock's current value by its original value, and then subtracting it by one -- since the initial capital can't be seen as earnings.<br>
 
 <br>
 <p float="left">
@@ -76,12 +76,12 @@ When dealing with stocks though, it's better to look at <strong>changes</strong>
 <img src="/data+plot/Jupyter_docs/absolute_value_stock.png " />
  </p>
 
-The method used to plot the <strong>left graph</strong> is very useful, but it's possible to go a bit further. Instead of dividing present/past values and subtracting one, recursively implementing this method each day is a much more accurate way to evaluate returns. It's worth noting that this process is mostly used like this: `log(v[t+1]) - log(v[t])`, which is a <strong>very congruent approximation</strong> of the exact value; v[t] being the stock's value at any given time <em>[ t ]</em>. This eliminates a lot possible data conflicts, which is predictable considering logarithmic properties are closely related to changes in percentage values. <br>
+The method used to plot the <strong>left graph</strong> is very useful, but it's possible to go a bit further. Instead of dividing present/past values and subtracting it by one, recursively implementing this method each day is a much more accurate way to evaluate returns. It's worth noting that this process is mostly used like this: `log(v[t+1]) - log(v[t])`, which is a <strong>very congruent approximation</strong> of the exact value; v[t] being the stock's value at any given time <em>[ t ]</em>. This eliminates a lot possible confusions: it allows to create a model that <strong>fits the data</strong>, and not the other way around -- logarithmic properties are closely related to changes in percentage values. <br>
 > log approximation is accurate on its own, but it's better for small percentage changes <br>
 
 ```c
-///  --- C code to determine exact earnings/losses during each day without log ---
-#define data_size 1000
+///  --- C model to determine exact % earnings/losses during each day without log ---
+#define data_size 1000        
 float v[data_size];      
 float profit[data_size];  
 for(int t =0; t<data_size;t++)
@@ -97,7 +97,12 @@ for(int t =0; t<data_size;t++)
  </p>
 <br>
 
-<h4>Both charts above represent the same concept: return on investment. </h4><br> 
+<h4>Both charts above represent the same idea. </h4><br> 
+> The difference between the absolute(stock price)/relative(stock's overall % return <em>v[t]/v[0]</em>) value from 
+> the percentage change after each day (<em>log</em>) is evident when comparing all charts. Using log recursively grants
+> an unbiased view of the stock's behavior.
+
+<br>
 <strong>Left</strong> - it was used a couple of very useful <strong>Python</strong> modules:<br>
 <ul>
 <li>
