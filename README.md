@@ -45,11 +45,11 @@ Apple and Amazon are among the largest companies in the world, not only that but
 <br>
 Back in 2005, when a few of PayPal founders started YouTube, and the platform was still finding 
 its place on the world wide web, its functionalities weren't yet clear to the public. However, the potential around 
-it wasn't ignored, and less than two years later Google acquired it for 1.6 billion. They go out of their way to be part of the latest technologies, and that kind of attitude enabled them to keep growing.<br><br>
+it wasn't ignored, and less than two years later Google acquired it for $1.6 billion. All this to say that they go out of their way to be part of the latest technologies, and that kind of attitude enabled them to keep growing.<br><br>
 <p float="left">
   <img src="/data+plot/GOOG.Rplot.jpeg" width="400" />
   <img src="/data+plot/GOOG1.Rplot.jpeg" width="400" /> 
 </p>
-<br><br><br>
+<br><br>
 
 
