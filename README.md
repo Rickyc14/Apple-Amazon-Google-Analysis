@@ -79,17 +79,21 @@ The method used to plot the <strong>left graph</strong> is very useful, but it's
 <h4>Both charts above represent the same concept: return on investment. </h4><br> 
 <strong>Left</strong> - it was used a couple of very useful <strong>Python</strong> modules:<br>
 <ul>
-<li> 
-[matplotlib](https://matplotlib.org/): plotting
+<li>
+ 
+  [matplotlib](https://matplotlib.org/): plotting
  </li>
  <li>
-[pandas](https://pandas.pydata.org/): setting data frame
+ 
+  [pandas](https://pandas.pydata.org/): setting data frame
  </li>
  <li>
-[numpy](http://www.numpy.org/): setting log function into the program
+ 
+  [numpy](http://www.numpy.org/): setting log function into the program
  </li>
  <li>
-[quandl](https://www.quandl.com/): requesting data
+ 
+  [quandl](https://www.quandl.com/): requesting data
  </li>
 </ul>
 
