@@ -99,8 +99,8 @@ for(int t =0; t<data_size;t++)
 
 <h5><em>Both charts give the same result, even though they were obtained by differet methods.</em> </h5><br> 
 
-> The difference between the absolute(stock price)/relative(stock's overall % return <em>v[t]/v[0]</em>) value from 
-> the percentage change after each day (<em>log</em>) is evident when comparing all charts. Using log recursively grants
+> The difference between the absolute<em>(stock price)</em>/relative<em>(stock's overall % return v[t]/v[0])</em> value from 
+> the percentage change after each day <em>(log)</em> is evident when comparing all charts. Using log recursively grants
 > an unbiased view of the stock's behavior.
 
 
