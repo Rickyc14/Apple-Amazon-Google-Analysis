@@ -54,6 +54,7 @@ Following the [link above](https://www.statista.com/statistics/263264/top-compan
 
 > Adjusted closing stock price for all three companies: <em>both Alphabet tickers follow the same changing patterns</em>
 > even having different absolute values<br>
+
 |    DATE    |  AAPL    |   AMZN   |   GOOG    |    GOOGL   |    DATE    |  AAPL    |   AMZN   |   GOOG    |    GOOGL   |   
 |:----------:|:--------:|:--------:|:---------:|:----------:|:----------:|:--------:|:--------:|:---------:|:----------:|   
 | 2015-01-02 |  103.86  |  308.52  |   524.81  |   529.55   | 2015-01-06 |  100.94  |  295.29  |   501.96  |   506.64   | 
