@@ -54,12 +54,10 @@ it wasn't ignored, and less than two years later Google acquired it for $1.6 bil
 
 
 
-
-
 <br>
-<p align="right">
+<p float="left">
 <img src="/data+plot/Jupyter_docs/relative_value_stock.png " />
- Due to the breadth of the companies' interests, each has a significant number of well-heeled competitors, though they differ depending   on their industry and focus.
+<img src="/data+plot/Jupyter_docs/absolut_value_stock.png " />
  </p>
 
 
