@@ -52,7 +52,7 @@ Following the [link above](https://www.statista.com/statistics/263264/top-compan
 <br>
 
 
-> Adjusted closing stock price for all three companies: <em>both Alphabet tickers follow the same changing patterns</em>
+> Adjusted closing stock price for all three companies below: <em>both of Alphabet's tickers follow the same changing patterns</em>
 > even having different absolute values<br>
 
 |    DATE    |  AAPL    |   AMZN   |   GOOG    |    GOOGL   |    DATE    |  AAPL    |   AMZN   |   GOOG    |    GOOGL   |   
