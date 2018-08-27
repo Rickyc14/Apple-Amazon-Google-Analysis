@@ -68,7 +68,7 @@ Following the [link above](https://www.statista.com/statistics/263264/top-compan
 
 
 
-When dealing with stocks though, it's better to look at <strong>changes</strong> rather than absolute values. The plot on the <strong>right shows absolute</strong> stock prices, and on the <strong> left: investors' overall % earnings </strong> over the given period. The latter is determined with a simple, but efficient approach: dividing the stock's current value by its original value, and then subtracting it by one -- since the initial capital can't be seen as earnings.<br>
+When dealing with stocks though, it's better to look at <strong>changes</strong> rather than absolute values. The plot on the <strong>right shows absolute</strong> stock prices, and on the <strong> left: investors' total % earnings </strong> over the given period. The latter is determined with a simple, but efficient approach: dividing the stock's current value by its original value, and then subtracting it by one -- since the initial capital can't be seen as earnings.<br>
 
 <br>
 <p float="left">
