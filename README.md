@@ -57,7 +57,7 @@ it wasn't ignored, and less than two years later Google acquired it for $1.6 bil
 <br>
 <p float="left">
 <img src="/data+plot/Jupyter_docs/relative_value_stock.png " />
-<img src="/data+plot/Jupyter_docs/absolut_value_stock.png " />
+<img src="/data+plot/Jupyter_docs/absolute_value_stock.png " />
  </p>
 
 
