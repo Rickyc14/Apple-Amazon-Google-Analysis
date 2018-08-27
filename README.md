@@ -41,7 +41,7 @@ Apple and Amazon are among the largest companies in the world, not only that but
 
 ---
 
-Following the [link above](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-value/) then, the 3rd place belongs to Google. Indeed, Alphabet is Google's parent company founded in 2015 by Google's founders as a form of maintaining control. After that, all prior Google stocks were converted into Alphabet stocks -- more than half being in possession of a few a people that were closely involved in the company's initial development. Nonetheless, trading is still available for the public under these tickers: "GOOG" and "GOOGL". Buying the first will not grant the right to vote on any company decision, and the second will cost a little extra, but it comes with voting rights. All told, both types will follow similar trends. 
+Following the [link above](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-value/) then, the 3rd place belongs to Google. Indeed, Alphabet is Google's parent company founded in 2015 by Google's founders as a form of maintaining control. After that, all prior Google stocks were converted into Alphabet stocks -- more than half being in possession of a few a people that were closely involved in the company's initial development. Nonetheless, trading is still available for the public under these <strong>tickers</strong>: "GOOG" and "GOOGL". Buying the first will not grant the right to vote on any company decision, and the second will cost a little extra, but it comes with voting rights. All told, both types will follow similar trends. 
 
 
 
@@ -51,9 +51,8 @@ Following the [link above](https://www.statista.com/statistics/263264/top-compan
 </p>
 <br><br>
 
-When dealing with stocks, it's better to look at changes rather than absolute values.
-
-<p align="center">
+> Adjusted closing stock price for all three companies.
+> <em>Both Alphabet tickers follow the same patterns</em>
 
 |    DATE    |  AAPL    |   AMZN   |   GOOG    |    GOOGL   |  
 |:----------:|:--------:|:--------:|:---------:|:----------:|  
@@ -61,7 +60,7 @@ When dealing with stocks, it's better to look at changes rather than absolute va
 | 2015-01-05 |  100.93  |  302.19  |   513.87  |   519.46   |
 | 2015-01-06 |  100.94  |  295.29  |   501.96  |   506.64   |
 
-</p>
+When dealing with stocks though, it's better to look at <strong>changes</strong> rather than absolute values. The plot on the left shows <strong>absolute</strong> stock prices, and the one on the right tell us about the <strong>earnings</strong> of investors over that particular period of time. This is done with a simple, but efficient approach: dividing the stock current value by its original value, and then subtracting one from it -- since the initial capital can't be seen as earnings. 
 
 
 <br>
