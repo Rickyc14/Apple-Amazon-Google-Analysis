@@ -51,7 +51,7 @@ Following the [link above](https://www.statista.com/statistics/263264/top-compan
 </p>
 <br><br>
 
-> Adjusted closing stock price for all three companies.
+> Adjusted closing stock price for all three companies.<br>
 > <em>Both Alphabet tickers follow the same patterns</em>
 
 |    DATE    |  AAPL    |   AMZN   |   GOOG    |    GOOGL   |  
