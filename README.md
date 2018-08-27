@@ -53,7 +53,7 @@ Following the [link above](https://www.statista.com/statistics/263264/top-compan
 
 When dealing with stocks, it's better to look at changes rather than absolute values.
 
-<p align="center">
+<p style="align:center;">
 
 |    DATE    |  AAPL    |   AMZN   |   GOOG    |    GOOGL   |  
 |:----------:|:--------:|:--------:|:---------:|:----------:|  
