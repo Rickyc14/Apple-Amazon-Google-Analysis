@@ -76,7 +76,7 @@ When dealing with stocks though, it's better to look at <strong>changes</strong>
 <img src="/data+plot/Jupyter_docs/absolute_value_stock.png " />
  </p>
 
-The method used to plot the <strong>left graph</strong> is very useful, but it's possible to go a bit further. Instead of dividing present/past values and subtracting it by one, recursively implementing this method each day is a much more accurate way to evaluate returns. It's worth noting that this process is mostly used like this: `log(v[t+1]) - log(v[t])`, which is a <strong>very congruent approximation</strong> of the exact value; v[t] being the stock's value at any given time <em>[ t ]</em>. This eliminates a lot possible confusions: it allows to create a model that <strong>fits the data</strong>, and not the other way around -- logarithmic properties are closely related to changes in percentage values. <br>
+The method used to plot the <strong>left graph</strong> is very useful, but it's possible to go a bit further. Instead of dividing present/past values and subtracting it by one, recursively implementing this method each day is a much more accurate way to evaluate returns. It's worth noting that this process is mostly used like this: `log(v[t+1]) - log(v[t])`, which is a <strong>very congruent approximation</strong> of the exact value: v[t] being the stock's value at any given time <em>[ t ]</em>. This eliminates a lot possible confusions: it allows to create a model that <strong>fits the data</strong>, and not the other way around -- logarithmic properties are closely related to changes in percentage values. <br>
 > log approximation is accurate on its own, but it's better for small percentage changes <br>
 
 ```c
