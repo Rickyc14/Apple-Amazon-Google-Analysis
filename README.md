@@ -97,10 +97,12 @@ for(int t =0; t<data_size;t++)
  </p>
 <br>
 
-<h4>Both charts above represent the same idea. </h4><br> 
+<h5><em>Both charts give the same result, even though they were obtained by differet methods.</em> </h5><br> 
+
 > The difference between the absolute(stock price)/relative(stock's overall % return <em>v[t]/v[0]</em>) value from 
 > the percentage change after each day (<em>log</em>) is evident when comparing all charts. Using log recursively grants
 > an unbiased view of the stock's behavior.
+
 
 <br>
 <strong>Left</strong> - it was used a couple of very useful <strong>Python</strong> modules:<br>
