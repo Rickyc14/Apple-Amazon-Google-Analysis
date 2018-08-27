@@ -43,14 +43,20 @@ Apple and Amazon are among the largest companies in the world, not only that but
 
 
 <br>
-Back in 2005, when a few of PayPal founders started YouTube, and the platform was still finding 
-its place on the world wide web, its functionalities weren't yet clear to the public. However, the potential around 
-it wasn't ignored, and less than two years later Google acquired it for $1.6 billion. All this to say that they go out of their way to be part of the latest technologies, and that kind of attitude enables them to keep growing.<br><br>
-<p float="left">
+Following the [link above](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-value/) then, the 3rd place belongs to Google. Indeed, Alphabet is Google's parent company founded in 2015 by Google's founders as a form of maintaining control. After that, all prior Google stocks were converted into Alphabet stocks -- more than half being in posession of a few a people that were closely involded in the company's initial development. Nonetheless, trading is still available for the public under these tickers: "GOOG" and "GOOGL". Buying the first will not grant the right to vote on any company decision, and the second will cost a little extra but it comes with voting rights. All told, both types will follow similar trends. 
+<br><br>
   <img src="/data+plot/GOOG.Rplot.jpeg" width="400" />
   <img src="/data+plot/GOOG1.Rplot.jpeg" width="400" /> 
 </p>
 <br><br>
+
+Th
+
+|    DATE    |   AAPL     |    AMZN    |    GOOG     |     GOOGL    |  
+|:----------:|:----------:|:----------:|:-----------:|:------------:|
+| 2015-01-02 |   103.86   |   308.52   |    524.81   |    529.55    | 
+| 2015-01-05 |   100.93   |   302.19   |    513.87   |    519.46    |
+| 2015-01-06 |   100.94   |   295.29   |    501.96   |    506.64    |
 
 
 
@@ -62,9 +68,4 @@ it wasn't ignored, and less than two years later Google acquired it for $1.6 bil
 
 
 
-|      DATE      |     AAPL       |      AMZN      |      GOOG       |       GOOGL      |  
-|:--------------:|:--------------:|:--------------:|:---------------:|:----------------:|
-|   2015-01-02   |     103.86     |     308.52     |      524.81     |      529.55      | 
-|   2015-01-05   |     100.93     |     302.19     |      513.87     |      519.46      |
-|   2015-01-06   |     100.94     |     295.29     |      501.96     |      506.64      |
 
