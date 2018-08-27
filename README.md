@@ -2,7 +2,7 @@
 
 Very few companies can match the influence these three possess. They are the trend-makers always trying to stay ahead of the curve, and despite not being immune to changes in the economic environment, they managed to thrive during all these years.<br>
 
-The archive above contains plot images, <em>xlsx</em> files with the data used in this project, and source code files. The data was obtained from [Yahoo finance](https://finance.yahoo.com/) using the [R software](https://www.r-project.org/).<br><br>
+The archive above contains plot images, <em>xlsx</em> files with the data used in this project, and source code files for both Python and R. The data was obtained from [Yahoo finance](https://finance.yahoo.com/) using the [R software](https://www.r-project.org/).<br><br>
 <ul>
 <li>  
 This is a common data pattern for each trade computed and stored in the database:
@@ -51,7 +51,7 @@ Following the [link above](https://www.statista.com/statistics/263264/top-compan
 </p>
 <br><br>
 
-> Adjusted closing stock price for all three companies: <em>both Alphabet tickers follow the same patterns</em>
+> Adjusted closing stock price for all three companies: <em>both Alphabet tickers follow the same change patterns</em>
 
 |    DATE    |  AAPL    |   AMZN   |   GOOG    |    GOOGL   |    DATE    |  AAPL    |   AMZN   |   GOOG    |    GOOGL   |   
 |:----------:|:--------:|:--------:|:---------:|:----------:|:----------:|:--------:|:--------:|:---------:|:----------:|   
@@ -98,7 +98,7 @@ The method used to plot the <strong>left graph</strong> is very useful, but it's
 </ul>
 
 
-<strong>Right</strong> - R code (available on the repository) 
+<strong>Right</strong> - R code: 
 ```r
 # R code for implementing the recursively <em>log</em> process mentioned above:
 
