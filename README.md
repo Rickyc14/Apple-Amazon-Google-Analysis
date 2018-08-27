@@ -51,16 +51,15 @@ Following the [link above](https://www.statista.com/statistics/263264/top-compan
 </p>
 <br><br>
 
-> Adjusted closing stock price for all three companies.<br>
-> <em>Both Alphabet tickers follow the same patterns</em>
+> Adjusted closing stock price for all three companies: <em>both Alphabet tickers follow the same patterns</em>
 
-|    DATE    |  AAPL    |   AMZN   |   GOOG    |    GOOGL   |  
-|:----------:|:--------:|:--------:|:---------:|:----------:|  
-| 2015-01-02 |  103.86  |  308.52  |   524.81  |   529.55   | 
-| 2015-01-05 |  100.93  |  302.19  |   513.87  |   519.46   |
-| 2015-01-06 |  100.94  |  295.29  |   501.96  |   506.64   |
+|    DATE    |  AAPL    |   AMZN   |   GOOG    |    GOOGL   |    DATE    |  AAPL    |   AMZN   |   GOOG    |    GOOGL   |   
+|:----------:|:--------:|:--------:|:---------:|:----------:|:----------:|:--------:|:--------:|:---------:|:----------:|   
+| 2015-01-02 |  103.86  |  308.52  |   524.81  |   529.55   | 2015-01-06 |  100.94  |  295.29  |   501.96  |   506.64   | 
+| 2015-01-05 |  100.93  |  302.19  |   513.87  |   519.46   | 2015-01-07 |  102.36  |  298.42  |   501.10  |   505.15   |
 
-When dealing with stocks though, it's better to look at <strong>changes</strong> rather than absolute values. The plot on the <strong>right shows absolute</strong> stock prices, and the one on the <strong> left tell us about the earnings</strong> of investors over that particular period of time. This is done with a simple, but efficient approach: dividing the stock current value by its original value, and then subtracting one from it -- since the initial capital can't be seen as earnings. 
+
+When dealing with stocks though, it's better to look at <strong>changes</strong> rather than absolute values. The plot on the <strong>right shows absolute</strong> stock prices, and the one on the <strong> left tell us about the earnings</strong> of investors over that particular period. This is done with a simple, but efficient approach: dividing the stock's current value by its original value, and then subtracting one from it -- since the initial capital can't be seen as earnings. 
 
 
 <br>
